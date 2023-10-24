@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to LinuxWorld, India , in fully automated jenkins</h2>
-			<h3>Contact training@lwindia.com or mob 9351009002</h3>
+			<h2>Hi Welcome to my Webapp, this webapp is created for testing Jenkins automated pipeline,</h2>
+			<h3>Contact Details :- Name: Priyansh Saxena , Email: priyansh.saxena20@gmailcom </h3>
 		</div>	
 	</div>
 
